@@ -1,0 +1,32 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/pjh/catkin_ws/devel/include/**",
+        "/home/pjh/turtle_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/pjh/catkin_ws/src/bg_tutorials/include/**",
+        "/home/pjh/catkin_ws/src/homework3/include/**",
+        "/home/pjh/turtle_ws/src/kobuki_bumper2pc/include/**",
+        "/home/pjh/turtle_ws/src/kobuki_gazebo_plugins/include/**",
+        "/home/pjh/turtle_ws/src/kobuki_keyop/include/**",
+        "/home/pjh/turtle_ws/src/kobuki_node/include/**",
+        "/home/pjh/turtle_ws/src/kobuki_safety_controller/include/**",
+        "/home/pjh/catkin_ws/src/test/include/**",
+        "/home/pjh/catkin_ws/src/topic_prac/include/**",
+        "/home/pjh/turtle_ws/src/turtlebot_apps/turtlebot_actions/include/**",
+        "/home/pjh/catkin_ws/src/ros_tutorials/turtlesim/include/**",
+        "/home/pjh/catkin_ws/src/vehicle_sim/vehicle/sensor_model/velodyne/velodyne_gazebo_plugins/include/**",
+        "/home/pjh/turtle_ws/src/yocs_cmd_vel_mux/include/**",
+        "/home/pjh/turtle_ws/src/yocs_controllers/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
